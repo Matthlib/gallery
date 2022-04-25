@@ -1,0 +1,925 @@
+[
+  {
+    "id": 0,
+    "name": "Adara1",
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/0.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/0.png",
+    "description": "",
+    "edition": "1",
+    "date": 1649086506,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorps_1_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00Bleue_1_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01NicoepauletteRBleu_14_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "KyleArmureLevel01NicoepauletteLGold_8_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "KyleArmureLevel01OlivLogo.Blanc_2_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02OlivEpaulettesRBleu_1_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteLGold_14_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02NicoPlastronGold_14_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCasqueOlivBleu_1_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "PiercingoreilleV1_1_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyleTeteBlaseeBleue_11_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilBleu_1_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "KyleCreteCasqueolivBlanc_5_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reGold_1_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "NoPilosite_0_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": 6913581137728602622,
+    "id": 1,
+    "name": "Adara2",
+    "description": "",
+    "edition": "2",
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/1.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/1.png",
+    "date": 1649086562,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorps_1_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00Blanc_2_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteROrange_6_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteLVert_5_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "KyleArmureLevel01NicoBleu_14_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02OlivEpaulettesROrange_6_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteLNoir_11_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02OlivPlastronRouge_3_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCasqueNicoOrange_13_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "Plaquenez_3_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyleTeteNeutregold_4_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilbeauGossejaune_7_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "KyleCreteCasqueolivBlanc_5_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reverte_7_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeRouge_1_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": -6536911070900566984,
+    "name": "Adara3",
+    "id": 2,
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/2.png",
+       "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/2.png",
+    "description": "",
+    "edition": "3",
+    "date": 1649086641,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorpsgold_2_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00Bleue_1_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01NicoepauletteRNoir_11_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteLbleu_1_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "KyleArmureLevel01NicoRouge_12_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteRGold_14_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteLGold_14_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02NicoPlastronNoir_11_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCheveuxBlanc_17_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "Plaquenez_3_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyleTeteBlaseeGrise_13_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeil-beauGosseRouge_8_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "KyleCreteCasqueolivNoire_3_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reNoir_3_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeNoire_3_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": 2809827207204750827,
+    "name": "Adara4",
+    "id": 3,
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/3.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/3.png",
+    "description": "",
+    "edition": "4",
+    "date": 1649087244,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorpsgold_2_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00Rouge_3_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01NicoepauletteRRouge_12_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteLGold_7_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "KyleArmureLevel01NicoGold_8_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02OlivEpaulettesRVert_5_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteLBlanc_9_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02OlivPlastronVert_5_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCasqueOlivRouge_3_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "PiercingoreilleV2_2_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyleTeteChewingGum.Grise_10_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilChewingGumBleu_10_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "NoCreteCasque_0_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reGold_1_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeBlanc_4_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": 3420676130261554157,
+    "name": "Adara5",
+    "description": "",
+    "id": 4,
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/4.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/4.png",
+    "edition": "5",
+    "date": 1649087301,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorps_1_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00Bleue_1_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteR.Blanc_2_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "KyleArmureLevel01NicoepauletteLRouge_12_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "NoTorseLevelUn_0_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02OlivEpaulettesROrange_6_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteLNoir_11_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02NicoPlastronRouge_10_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCasqueOlivOrange_6_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "PiercingoreilleV1_1_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyletetechewingGumRouge_9_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilgrisclair_4_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "KyleCreteCasqueolivNoire_3_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reGold_1_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeBleu_2_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": -8905748573859904140,
+    "name": "Adara6",
+    "description": "",
+    "edition": "6",
+    "id": 5,
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/5.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/5.png",
+    "date": 1649087437,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorpsgold_2_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00orange_6_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteR.Blanc_2_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "KyleArmureLevel01NicoepauletteLVert_10_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "KyleArmureLevel01NicoVert_10_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02OlivEpaulettesROrange_6_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "KyleArmurelevel02OlivEpauletteLOrange_6_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02NicoPlastronBlanc_9_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCasqueNicoRouge_10_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "PiercingoreilleV2_2_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyleTeteNeutre.rouge_2_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilChewingGumJaune_11_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "KyleCreteCasqueolivVert_2_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reBleue_6_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeBleu_2_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": -6765014387018407684,
+    "name": "Adara7",
+    "description": "",
+    "edition": "7",
+    "id": 6,
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/6.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/6.png",
+    "date": 1649087535,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorps_1_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00gold_7_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteRGold_7_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteLGold_7_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "NoTorseLevelUn_0_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02OlivEpaulettesRBleu_1_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "KyleArmurelevel02OlivEpauletteLOrange_6_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02NicoPlastronNoir_11_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCheveuxBlanc_17_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "PiercingoreilleV1_1_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyleTeteBeauGosseRouge_6_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilSurpriseGrisClair_17_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "KyleCreteCasqueolivBlanc_5_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reBleue_6_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeBlanc_4_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": -5068818711498976208,
+    "name": "Adara8",
+    "description": "",
+    "id": 7,
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/7.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/7.png",
+    "edition": "8",
+    "date": 1649087870,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorps_1_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00orange_6_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteRbleu_1_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteLNoir_4_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "KyleArmureLevel01NicoBleu_14_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteRVert_12_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "KyleArmurelevel02OlivEpauletteLGold_7_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02NicoPlastronNoir_11_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCasqueOlivRouge_3_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "PiercingoreilleV1_1_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyletetechewingGumBleue_8_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilChewingGumJaune_11_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "KyleCreteCasqueolivOrange_1_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reGold_1_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeRouge_1_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": 6384759263433215664,
+    "name": "Adara9",
+    "description": "",
+    "edition": "9",
+    "id": 8,
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/8.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/8.png",
+    "date": 1649087908,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorps_1_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00gold_7_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01NicoepauletteRRouge_12_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteLNoir_4_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "KyleArmureLevel01OlivLogoRouge_3_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02OlivEpaulettesRGold_7_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "Armurelevel02OlivEpauletteLBlanc_2_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02OlivPlastronBlanc_2_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCheveuxNoir_16_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "PiercingoreilleV2_2_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyleTeteNeutregold_4_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilgrisclair_4_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "KyleCreteCasqueolivNoire_3_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reOrange_2_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeBleu_2_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": -1730523691488223109,
+    "name": "Adara10",
+    "description": "",
+    "id": 9,
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/9.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/9.png",
+    "edition": "0",
+    "date": 1649087947,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorpsgold_2_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00gold_7_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "NoEpauletteDroiteLevelUn_0_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "NoEpauletteGaucheLevelUn_0_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "KyleArmureLevel01OlivLogoNoir_4_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteRNoir_11_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "Armurelevel02OlivEpauletteLBlanc_2_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02NicoPlastronGold_14_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KylecasqueNicoBleu_8_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "Plaquenez_3_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyleTeteSurpriseRouge_18_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilBleu_1_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "KyleCreteCasqueolivBleue_6_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reRouge_4_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeRouge_1_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": -1417540268079433670,
+    "name": "Adara11",
+    "description": "",
+    "edition": "1",
+    "id": 10,
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/10.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/10.png",
+    "date": 1649088009,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorps_1_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00Bleue_1_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01OlivepauletteRNoir_4_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "KyleArmureLevel01NicoepauletteLBleu_14_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "KyleArmureLevel01OlivLogoRouge_3_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteRBlanc_9_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteLOrange_13_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02NicoPlastronRouge_10_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCheveuxRouges_14_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "PiercingoreilleV2_2_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyleTeteNeutregold_4_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilChewingGumBleu_10_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "NoCreteCasque_0_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reNoir_3_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeBleu_2_100"
+     }
+    ],
+    "compiler": ""
+   },
+   {
+    "dna": -8302006768081140187,
+    "name": "Adara12",
+    "description": "",
+    "edition": "2",
+    "id": 11,
+    "external_url": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/11.png",
+    "image": "ipfs://QmRJc2pVJvtfSqUudGd98t63aFDSKy9EvySm3doAkd2UWa/11.png",
+    "date": 1649088127,
+    "attributes": [
+     {
+      "trait_type": "Corps",
+      "value": "Kylecorps_1_100"
+     },
+     {
+      "trait_type": "ArmureLevelZero",
+      "value": "KyleArmureLevel00orange_6_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelUn",
+      "value": "KyleArmureLevel01NicoepauletteRRouge_12_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelUn",
+      "value": "NoEpauletteGaucheLevelUn_0_100"
+     },
+     {
+      "trait_type": "TorseLevelUn",
+      "value": "KyleArmureLevel01NicoVert_10_100"
+     },
+     {
+      "trait_type": "EpauletteDroiteLevelDeux",
+      "value": "KyleArmureLevel02OlivEpaulettesRRouge_3_100"
+     },
+     {
+      "trait_type": "EpauletteGaucheLevelDeux",
+      "value": "KyleArmureLevel02NicoEpauletteLOrange_13_100"
+     },
+     {
+      "trait_type": "TorseLevelDeux",
+      "value": "KyleArmureLevel02NicoPlastronOrange_13_100"
+     },
+     {
+      "trait_type": "Tete",
+      "value": "KyleCheveuxBleu_15_100"
+     },
+     {
+      "trait_type": "Piercing",
+      "value": "Plaquenez_3_100"
+     },
+     {
+      "trait_type": "Expression",
+      "value": "KyleTeteBlaseeRouge_12_100"
+     },
+     {
+      "trait_type": "Yeux",
+      "value": "KyleOeilbeauGosse.GrisClair_9_100"
+     },
+     {
+      "trait_type": "Epee",
+      "value": "Epee01100_1_100"
+     },
+     {
+      "trait_type": "CreteCasque",
+      "value": "KyleCreteCasqueolivBlanc_5_100"
+     },
+     {
+      "trait_type": "VisiereCasque",
+      "value": "KyleCasqueOlivvisi\u00e8reverte_7_100"
+     },
+     {
+      "trait_type": "Pilosite",
+      "value": "KyleBarbeRouge_1_100"
+     }
+    ],
+    "compiler": ""
+   }
+  ]
