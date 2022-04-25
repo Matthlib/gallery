@@ -47,6 +47,7 @@ export default function games1() {
             router.push('/games/DoodleJump/index.html',{ uid: discordID })
             //router.push('/gallery?uid='+discordID)
         }
+        
     }
 
 
